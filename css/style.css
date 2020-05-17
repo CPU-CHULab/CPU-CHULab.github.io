@@ -5386,7 +5386,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
   font-family: "Roboto", arial, sans-serif;
   font-weight: 100;
-  line-height: 32px; }
+  line-height: 28px; }
 
 .fh5co-post {
   padding: 0;
@@ -5943,9 +5943,9 @@ pre {
   letter-spacing: 1px;
   font-family: "Montserrat", arial, sans-serif; }
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-sub-lead {
-  font-size: 26px;
+  font-size: 30px;
   line-height: 42px;
-  font-weight: 100;
+  font-weight: normal;
   font-family: "Roboto", arial, sans-serif; }
 
 .js .to-animate {
